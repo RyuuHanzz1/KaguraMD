@@ -10,17 +10,17 @@ global.APIKeys = {
 }
 
 //---------( SETTING )---------//
-global.owner = ['6282279915237','6285789004732','6285724706876']
-global.premium = ['6282279915237']
-global.ownernomer = '6282279915237'
-global.ownername = 'Lexxy Official'
-global.botname = 'KaguraMD'
+global.owner = ['628889312587','628889312587','628889312587']
+global.premium = ['628889312587']
+global.ownernomer = '628889312587'
+global.ownername = 'Nisa'
+global.botname = 'Nisa'
 global.footer = 'Lexxy Official'
 global.thumb = fs.readFileSync('./image/fake.jpg')
 global.veloriy = fs.readFileSync('./image/kagura.mp4')
 global.sessionName = 'session'
-global.packname = '© BotWa'
-global.author = '2022'
+global.packname = '©'
+global.author = 'NisaBot'
 global.sp = '⭔'
 
 //---------( INFO )---------//
@@ -34,7 +34,7 @@ global.prefa = ['','!','.','🐦','🐤','🗿']
 global.BgWelcLeav = 'https://telegra.ph/file/ca207893ae26d531cd9c6.jpg'
 global.limitawal = {
 premium: "Infinity",
-free: 15,
+free: 80,
 }
 
 //---------( RANDOM IMAGE )---------//
